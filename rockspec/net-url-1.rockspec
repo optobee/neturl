@@ -1,5 +1,5 @@
 package = "net-url"
-version = "0.9"
+version = "rel-0.9"
 
 source = {
    url = "git://github.com/golgote/neturl.git",
